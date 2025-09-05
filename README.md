@@ -26,16 +26,16 @@ health recommendations based on urine color characteristics.
 
 ## 🎨 Supported Color Classes
 
-  Color   Indonesian   English
-  ------- ------------ ---------
-  🟦      Biru         Blue
-  🟫      Coklat       Brown
-  🟩      Hijau        Green
-  ⬛      Hitam        Black
-  🟧      Jingga       Orange
-  🟨      Kuning       Yellow
-  🟥      Merah        Red
-  ⬜      Putih        White
+| Color | Indonesian | English |
+|-------|------------|---------|
+| 🟦 | Biru | Blue |
+| 🟫 | Coklat | Brown |
+| 🟩 | Hijau | Green |
+| ⬛ | Hitam | Black |
+| 🟧 | Jingga | Orange |
+| 🟨 |Kuning | Yellow |
+| 🟥 | Merah | Red |
+| ⬜ | Putih | White |
 
 ## 🚀 Quick Start
 
