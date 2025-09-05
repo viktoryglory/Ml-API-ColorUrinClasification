@@ -1,12 +1,12 @@
 ## 🎨 Urine Color Classification API
 
-::: {align="center"}
+{align="center"}
 https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
 https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 
 AI-powered urine color analysis for health insights
-:::
+
 
 ## 📋 Overview
 
@@ -213,10 +213,10 @@ open issues for bugs and feature requests.
 For technical support or questions about this application, please
 contact me.
 
-::: {align="center"}
+{align="center"}
 ✨ Don't forget to download the model file from Google Drive before
 running! ✨
 
 [📥 Download Model
 Here](https://drive.google.com/drive/folders/1Z9SzeX64ijgbtLytaR5hjHju3UupzI9L?usp=drive_link)
-:::
+
