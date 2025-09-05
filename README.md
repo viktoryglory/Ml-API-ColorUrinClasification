@@ -1,9 +1,9 @@
 ## 🎨 Urine Color Classification API
 
 {align="center"}
-https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
-https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+![Flask](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![TENSORFLOW](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 AI-powered urine color analysis for health insights
 
